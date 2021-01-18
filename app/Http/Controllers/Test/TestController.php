@@ -11,5 +11,10 @@ class TestController extends Controller
         echo  66666;
     }
 
+    public function test2()
+    {
+        return view('test2');
+    }
+
 
 }

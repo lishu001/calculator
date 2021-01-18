@@ -15,4 +15,4 @@
 //    //return redirect('/admin');
 //});
 
-Route::get('/', 'Test\TestController@test');
+Route::get('/', 'Test\TestController@test2');
